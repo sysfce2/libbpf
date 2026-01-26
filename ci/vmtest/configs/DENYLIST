@@ -1,5 +1,6 @@
 # TEMPORARY
 btf_dump/btf_dump: syntax
+bpf_cookie/perf_event
 kprobe_multi_bench_attach
 core_reloc/enum64val
 core_reloc/size___diff_sz
